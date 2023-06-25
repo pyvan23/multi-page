@@ -25,3 +25,12 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.active-tab {
+  background-color: #F9818E;
+  color: #FFF;
+}
+
+.active-color {
+  background-color: #6A5BFF;
+  color: #FFF;
+}
